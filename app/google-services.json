@@ -1,22 +1,21 @@
 {
   "project_info": {
-    "project_number": "552883533575",
-    "firebase_url": "https://basedatosfirebase2022-v-default-rtdb.firebaseio.com",
-    "project_id": "basedatosfirebase2022-v",
-    "storage_bucket": "basedatosfirebase2022-v.appspot.com"
+    "project_number": "491071860658",
+    "project_id": "pcsf-d7b95",
+    "storage_bucket": "pcsf-d7b95.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:552883533575:android:e090321732d4a2f791b7a2",
+        "mobilesdk_app_id": "1:491071860658:android:e037fb33e604f39f64beab",
         "android_client_info": {
-          "package_name": "cl.isisur.basedatosfirebase2022"
+          "package_name": "cl.isisur.basedatosfirebase2022.Clases"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCaJdkd1Dg99Xg14kSbzGupyQrtQaQI6YM"
+          "current_key": "AIzaSyC5gLdrCEUU08ahbCzVhqwvf3NwxASe0W0"
         }
       ],
       "services": {
